@@ -1,2 +1,3 @@
-# INST-VIRTUAL-GENERATOR
-All your instant virtual analyses and fixed predictions here 
+index.html
+stlye.css
+script.js
